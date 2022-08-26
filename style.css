@@ -33,10 +33,11 @@ body{
 .logo{
     float: left;
     margin-top: 43px;
-    margin-left: 126px;
+    margin-left: 190px;
     height: 64px;
     width: 204px;
 }
+
 /* .login{
     
     margin-left: 70px;
@@ -70,19 +71,19 @@ body{
 .heading{
     float: right;
     margin-top: 60px;
-    margin-right: 435px;
+    margin-right: 364px;
    
 }
 .para{
     float: right;
     margin-top: -15px;
-    margin-right: 207px;
+    margin-right: 136px;
     font-size: 25PX;
 }
 .box{
     float: left;
     margin-top: 20px;
-    margin-left: 125px;
+    margin-left: 201px;
     font-size: 20PX;
     height: 62px;
     width: 537px;
@@ -122,13 +123,13 @@ input:focus {
 .para2{
     float: right;
     margin-top: 26px;
-    margin-right: 614px;
+    margin-right: 545px;
     font-size: 18PX;
 }
 .para3{
     float: right;
     margin-top: -7px;
-    margin-right: 215px;
+    margin-right: 148px;
     font-size: 17PX;
 }
 
@@ -335,7 +336,7 @@ input:focus {
 .foot-image{
     float: left;
     width: 358px;
-    margin-top: 131px;
+    margin-top: 20px;
     margin-left: 70px;
     height: 200px;
     background-color: black;
