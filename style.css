@@ -33,7 +33,7 @@ body{
 .logo{
     float: left;
     margin-top: 43px;
-    margin-left: 190px;
+    margin-left: 104px;
     height: 64px;
     width: 204px;
 }
@@ -83,7 +83,7 @@ body{
 .box{
     float: left;
     margin-top: 20px;
-    margin-left: 201px;
+    margin-left: 110px;
     font-size: 20PX;
     height: 62px;
     width: 537px;
@@ -307,7 +307,7 @@ input:focus {
     color: white;
 }
 .cmp-div{
-    font-size: 20px;
+    font-size: 18px;
     
 }
 .contact{
@@ -320,7 +320,7 @@ input:focus {
 
 }
 .cnt-div{
-    font-size: 20px;
+    font-size: 18px;
 }
 .legal{
     float: left;
@@ -331,19 +331,19 @@ input:focus {
     color: white;
 }
 .le-div{
-    font-size: 20px;
+    font-size: 18px;
 }
 .foot-image{
     float: left;
     width: 358px;
-    margin-top: 20px;
+    margin-top: 103px;
     margin-left: 70px;
     height: 200px;
     background-color: black;
 }
 .foot-img1{
-    height: 77px;
-    width: 291px;
+    height: 71px;
+    width: 275px;
     border-radius: 11px;
     border: 3px;
     border-color: white;
@@ -352,11 +352,10 @@ input:focus {
 
 }
 .foot-img2{
-    height: 77px;
-    width: 291px;
+    height: 71px;
+    width: 275px;
     border-radius: 11px;
-    border: 3px;
-    border-color: white;
-    margin-top: 22px;
+    border: 32px;
+    margin-top: 27px;
     cursor: pointer;
 }
