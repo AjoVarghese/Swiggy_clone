@@ -112,6 +112,7 @@ input:focus {
     border: none;
     font-weight: bold;
     color: white;
+    cursor: pointer;
 }
 
 .para2{
