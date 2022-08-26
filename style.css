@@ -64,13 +64,13 @@ body{
 .heading{
     float: right;
     margin-top: 60px;
-    margin-right: 364px;
+    margin-right: 453px;
    
 }
 .para{
     float: right;
     margin-top: -15px;
-    margin-right: 136px;
+    margin-right: 218px;
     font-size: 25PX;
 }
 .box{
@@ -94,7 +94,7 @@ input:focus {
 .loc-btn{
     float: right;
     margin-top: -40px;
-    margin-right: 252px;
+    margin-right: 277px;
     font-size: 13px;
     border: none;
     cursor: pointer;
@@ -104,7 +104,7 @@ input:focus {
 .food{
     float: right;
     margin-top: -67px;
-    margin-right: 87px;
+    margin-right: 103px;
     font-size: 17px;
     width: 156px;
     height: 67px;
@@ -117,13 +117,13 @@ input:focus {
 .para2{
     float: right;
     margin-top: 26px;
-    margin-right: 536px;
+    margin-right: 630px;
     font-size: 18PX;
 }
 .para3{
     float: right;
     margin-top: -7px;
-    margin-right: 138px;
+    margin-right: 229px;
     font-size: 17PX;
 }
 
