@@ -33,17 +33,10 @@ body{
 .logo{
     float: left;
     margin-top: 43px;
-    margin-left: 104px;
+    margin-left: 193px;
     height: 64px;
     width: 204px;
 }
-
-/* .login{
-    
-    margin-left: 70px;
-    margin-top: 50px;
-    background-color: black;
-} */
 .login{
     float: right;
     font-size: 18px;
@@ -83,13 +76,14 @@ body{
 .box{
     float: left;
     margin-top: 20px;
-    margin-left: 110px;
+    margin-left: 204px;
     font-size: 20PX;
     height: 62px;
-    width: 537px;
+    width: 459px;
     border: 1px solid;
     border-color: gray;
 }
+
 
 input:focus {
     outline: none !important;
@@ -123,13 +117,13 @@ input:focus {
 .para2{
     float: right;
     margin-top: 26px;
-    margin-right: 545px;
+    margin-right: 536px;
     font-size: 18PX;
 }
 .para3{
     float: right;
     margin-top: -7px;
-    margin-right: 148px;
+    margin-right: 138px;
     font-size: 17PX;
 }
 
