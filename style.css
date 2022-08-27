@@ -1,8 +1,6 @@
 body{
     margin: 0;
-    font-family:  ProximaNova,arial,Helvetica Neue,sans-serif;
-    ;
-    
+    font-family:  ProximaNova,arial,Helvetica Neue,sans-serif; 
 }
 
 .container{
@@ -36,6 +34,7 @@ body{
     margin-left: 193px;
     height: 64px;
     width: 204px;
+    cursor: pointer;
 }
 .login{
     float: right;
@@ -56,6 +55,7 @@ body{
     height: 40px;
     width: 114px;
     color: white;
+    cursor: pointer;
     font-size: 17px;
     font-weight: bold;
     background-color: black;
@@ -223,8 +223,6 @@ input:focus {
     padding: 0%;
 }
 .sub-div1{
-   
-    /* margin: 0; */
     float: left;
     width: 40%;
     background-color: white;
@@ -237,8 +235,6 @@ input:focus {
     padding-left: 164px;
     padding-top: 196px;
     font-size: 43px;
-    
-   
 
 }
 
